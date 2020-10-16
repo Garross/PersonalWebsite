@@ -5,7 +5,7 @@ jQuery(document).ready(function($) {
 
         $(".Modern-Slider").slick({
             autoplay:true,
-            speed:1000,
+            speed:1000, //1000
             slidesToShow:1,
             slidesToScroll:1,
             pauseOnHover:false,

@@ -31,7 +31,7 @@
                 prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button">Previous</button>',
                 nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button">Next</button>',
                 autoplay: false,
-                autoplaySpeed: 3000,
+                autoplaySpeed: 9000, //3000 original speed, change this to change how fast home images transition.
                 centerMode: false,
                 centerPadding: '50px',
                 cssEase: 'ease',
@@ -60,7 +60,7 @@
                 slidesPerRow: 1,
                 slidesToShow: 1,
                 slidesToScroll: 1,
-                speed: 500,
+                speed: 500, //500
                 swipe: true,
                 swipeToSlide: false,
                 touchMove: true,

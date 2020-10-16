@@ -1083,4 +1083,8 @@ header {
     padding-right: 15px;
   }
 
+  .description {
+    width: 100%;
+  }
+
 }
