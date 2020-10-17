@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Creating Details Section">
+    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Changed home section slide show speed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602626278536</updated>
       <workItem from="1602626279623" duration="5524000" />
-      <workItem from="1602883437543" duration="790000" />
+      <workItem from="1602883437543" duration="5963000" />
     </task>
     <task id="LOCAL-00001" summary="Creating Details Section">
       <created>1602630178737</created>
@@ -48,15 +64,34 @@
       <option name="project" value="LOCAL" />
       <updated>1602630178737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed home section slide show speed.">
+      <created>1602884521685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602884521686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating Details Section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Details Section" />
+    <MESSAGE value="Changed home section slide show speed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed home section slide show speed." />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="310" key="Github.ShareDialog" timestamp="1602629055843">
@@ -67,9 +102,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602629067687" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602630186840">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602884536383">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602630186840" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602884536383" />
   </component>
 </project>
