@@ -548,6 +548,9 @@ header {
 
 #featured .item .image , #details .item .image img {
   width: 100%;
+  /*questionable way to maintain uniform height may have to change later.
+  This whole thing was hacked together over a pretty hacky template anyways tbh- in my defence.*/
+  height: 50vh;
   overflow: hidden;
 }
 
