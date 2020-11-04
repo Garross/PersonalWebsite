@@ -1,4 +1,4 @@
-
+<!--Single html page portfolio website-->
 <!DOCTYPE html>
 <html>
     <head>
@@ -25,7 +25,7 @@
 <body>
 
 
-
+<!--    navBar for mobile view-->
         <header class="nav-down responsive-nav hidden-lg hidden-md">
             <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
                 <span class="sr-only">Toggle navigation</span>
@@ -48,6 +48,7 @@
             </div>
         </header>
 
+<!--    navBar for desktop/tablet view-->
         <div class="sidebar-navigation hidde-sm hidden-xs">
             <div class="logo">
                 <a href="#">Garry<em>Tis</em></a>
@@ -98,6 +99,7 @@
                     </li>
                 </ul>
             </nav>
+<!--        icons to find me on social media.-->
             <ul class="social-icons">
                 <li><a href="https://www.linkedin.com/in/garry-tiscovschi-a45489194/" target="_blank">
                     <i class="fa fa-linkedin"></i></a>
@@ -114,7 +116,7 @@
 
             </ul>
         </div>
-
+<!--    sliding images and voting system.-->
         <div class="slider">
             <div class="Modern-Slider content-section" id="top">
                 <!-- Item -->
@@ -171,6 +173,7 @@
 
 
         <div class="page-content">
+<!--        Uses owl-carousel css & js plugin to organise featured projects.-->
             <section id="featured" class="content-section">
                 <div class="section-heading">
                     <h1>Featured<br><em>Projects</em></h1>
@@ -307,7 +310,8 @@
                     </div>
                 </div>
             </section>
-
+<!--        Potential section that might be added later to elaborate on my featured projects, might not be necessary-->
+<!--        to keep the website short & sweet.-->
             <!--<section id="details" class="content-section">
                 <div class="section-heading">
                     <h1>Project<br><em>Details</em></h1>
@@ -497,9 +501,12 @@
                 <div id="contact-content">
                     <div class="section-heading">
                         <h1>Contact<br><em>Me</em></h1>
-                        <p>Get in touch via email
-                        <br>Or on Social Media available on the left</p>
-                        
+<!--                    Different instruction messages show up depending on the view being for mobile or larger screens-->
+                        <p class="hidden-sm hidden-xs">Get in touch via email
+                            <br>Or on Social Media, available on the left</p>
+
+                        <p class = "social-icons hidden-lg hidden-md">Get in touch via email
+                            <br>Or on Social Media, available below</p>
                     </div>
                     <div class="section-content">
                         <form action="#" method="post">
@@ -534,6 +541,7 @@
                     </div>
                 </div>
             </section>
+<!--        On mobile my social media icons are available below as opposed to on the left(on the moving navbar)-->
             <section class="footer">
                 <div class = "social-icons hidden-lg hidden-md">
                     <a href="https://www.linkedin.com/in/garry-tiscovschi-a45489194/" target="_blank">
