@@ -570,15 +570,17 @@ header {
   transition: all 0.5s;
   position: absolute;
   z-index: 9;
-  bottom: -44px;
-  opacity: 0;
+  /*bottom: -44px;*/
+  /*opacity: 0;*/
+  bottom: 0;
+  opacity: 1;
 
 }
 
-#featured .item:hover .featured-button a, #details .item:hover .featured-button a {
-  bottom: 0;
-  opacity: 1;
-  /*background-color: rgba(12,12,12,0.9);*/
+#featured .item .featured-button a:hover, #details .item:hover .featured-button a {
+  /*bottom: 0;*/
+  /*opacity: 1;*/
+  background-color: rgba(12,12,12,0.9);
 }
 
 #featured .item .text-content, #details .item .text-content {
