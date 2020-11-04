@@ -572,11 +572,13 @@ header {
   z-index: 9;
   bottom: -44px;
   opacity: 0;
+
 }
 
 #featured .item:hover .featured-button a, #details .item:hover .featured-button a {
   bottom: 0;
   opacity: 1;
+  /*background-color: rgba(12,12,12,0.9);*/
 }
 
 #featured .item .text-content, #details .item .text-content {
@@ -1104,7 +1106,7 @@ header {
   #featured .owl-nav {
     position: absolute;
     display: inline-block;
-    top: -220px;
+    top: -110px;
     right: 0;
   }
 
