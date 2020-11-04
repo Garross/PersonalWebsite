@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Made CV pdf responsive">
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Fixes">
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl-carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1603319881373" duration="12652000" />
       <workItem from="1603703840659" duration="30000" />
       <workItem from="1604262784102" duration="5328000" />
-      <workItem from="1604425125700" duration="19150000" />
+      <workItem from="1604425125700" duration="19544000" />
     </task>
     <task id="LOCAL-00001" summary="Creating Details Section">
       <created>1602630178737</created>
@@ -177,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604531501815</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixes">
+      <created>1604531822506</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604531822506</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixes">
+      <created>1604531829260</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604531829260</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +227,8 @@
     <MESSAGE value="Small Aesthetic Changes" />
     <MESSAGE value="Pushing to Heroku" />
     <MESSAGE value="Made CV pdf responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made CV pdf responsive" />
+    <MESSAGE value="Fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604436164264">
@@ -227,9 +243,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602629067687" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604531511213">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604531843221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604531511213" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604531843221" />
   </component>
 </project>

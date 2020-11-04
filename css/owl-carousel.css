@@ -179,3 +179,9 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+/*Fix for vertical/horizontal scroll conflict bug.*/
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+  -ms-touch-action: auto;
+  touch-action: auto;
+}
