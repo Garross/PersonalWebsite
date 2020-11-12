@@ -143,7 +143,7 @@
                           <h1>Are rolling images <br>too much?</h1>
 
                           <div class="white-button button">
-                              <a href="#featured">Vote Here!!</a>
+                              <a href="#featured">Vote Here(Soon)!!</a>
                           </div>
                         </div>
                         </div>
@@ -156,11 +156,11 @@
                         <div class="image"></div>
                         <div class="info">
                         <div>
-                          <h1>Built with Sentra bootstrap <br>theme as a base.</h1>
+                          <h1>This website is feedback driven <br>Rate the design!</h1>
 
                           
                           <div class="white-button button">
-                              <a href="#featured">Learn More</a>
+                              <a href="#featured">Vote Here(Soon)!!</a>
                           </div>
                         </div>
                         </div>
@@ -190,6 +190,8 @@
                             <div class="text-content">
                                 <h4>GitWatch 2019</h4>
                                 <span>Software Engineer Analyser</span>
+<!--                            Inserting starRating html-->
+<!--                            <div html-include="starRating"></div>-->
                                 <p>GitWatch lets you quickly enter any Github username(yours included)
                                     to analyse the users public work as programmer. So far, it analyses the times you code,
                                     what days you code and the languages you use.</p>
@@ -493,10 +495,11 @@
                     </iframe>
 <!--                     Solution for mobiles which are more likely to not be pdf compatible. -->
                     <div class="hidden-lg hidden-md">
-                        <img src="./documents/Garry_Tiscovschi_CV_Website.jpg" width = "100%" height="auto">
+                        <img src="./documents/Garry_Tiscovschi_CV_Website.jpg" width = "100%" height="auto" alt="CV">
                         <a href='./documents/Garry_Tiscovschi_CV_Website.pdf' download="Garry_Tiscovschi_CV_2020">
                             Download PDF Here</a>
                     </div>
+
 
 
 
@@ -569,6 +572,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>-->
 
     <script src="js/vendor/bootstrap.min.js"></script>
     
@@ -614,9 +618,30 @@
             
             lastScrollTop = st;
         }
+        //
+        // $(function(){
+        //     var includes = $('[html-include]');
+        //     jQuery.each(includes, function(){
+        //         var file = 'views/' + $(this).data('include') + '.html';
+        //         $(this).load(file);
+        //     });
+        // });
+
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XB1HDT4Z2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4XB1HDT4Z2');
     </script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+
+
 
 </body>
 </html>

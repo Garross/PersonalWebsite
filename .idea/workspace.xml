@@ -19,13 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Fixed Owl Carousel">
+    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Temporarily Removed Contact Me Section">
+      <change afterPath="$PROJECT_DIR$/starRating.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -46,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edti5\WebstormProjects\PersonalWebsite3" />
       <recent name="C:\Users\edti5\WebstormProjects\PersonalWebsite3\img" />
     </key>
   </component>
@@ -64,6 +75,7 @@
       <workItem from="1603703840659" duration="30000" />
       <workItem from="1604262784102" duration="5328000" />
       <workItem from="1604425125700" duration="20776000" />
+      <workItem from="1605206459340" duration="3983000" />
     </task>
     <task id="LOCAL-00001" summary="Creating Details Section">
       <created>1602630178737</created>
@@ -198,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604532151897</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Temporarily Removed Contact Me Section">
+      <created>1605206553467</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605206553467</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +254,8 @@
     <MESSAGE value="Made CV pdf responsive" />
     <MESSAGE value="Fixes" />
     <MESSAGE value="Fixed Owl Carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Owl Carousel" />
+    <MESSAGE value="Temporarily Removed Contact Me Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temporarily Removed Contact Me Section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604436164264">
@@ -250,9 +270,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602629067687" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604532162859">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605206562279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604532162859" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605206562279" />
   </component>
 </project>

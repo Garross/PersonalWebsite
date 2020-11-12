@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>starRating</title>
+</head>
+<body>
+    <form id="newRatingForm" action="https://garry-tiscovschi-backend.herokuapp.com/newRating"
+          method="POST" target="dummyframe">
+        <input name="ratingName" placeholder="ratingName">
+        <input name="ratingScore" placeholder="ratingScore">
+
+    </form>
+    <button type="submit" form="newRatingForm" value="Submit">Submit</button>
+    <!--                 Dummyframe here to avoid redirects. Quicker than using ajax -->
+    <iframe width="0" height="0" border="0" name="dummyframe" id="dummyframe"></iframe>
+</body>
+</html>
