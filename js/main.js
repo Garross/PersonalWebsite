@@ -108,10 +108,10 @@ jQuery(document).ready(function($) {
         }
 
 
-        $('.button a[href*=#]').on('click', function(e) {
-          e.preventDefault();
-          $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top -0 }, 500, 'linear');
-        });
+        // $('.button a[href*=#]').on('click', function(e) {
+        //   e.preventDefault();
+        //   $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top -0 }, 500, 'linear');
+        // });
 
 
 });
