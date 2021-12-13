@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Updated GitWatch description.">
+    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Updated CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/GoodTravelSoftware" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -79,6 +82,9 @@
       <workItem from="1606300435997" duration="764000" />
       <workItem from="1606301302673" duration="2407000" />
       <workItem from="1606427792757" duration="33000" />
+      <workItem from="1607988429950" duration="548000" />
+      <workItem from="1607994978873" duration="112000" />
+      <workItem from="1639322313711" duration="13413000" />
     </task>
     <task id="LOCAL-00001" summary="Creating Details Section">
       <created>1602630178737</created>
@@ -255,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606303865915</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Updated CV">
+      <created>1607988562693</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607988562693</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,28 +310,7 @@
     <MESSAGE value="Updated SoSchol video link" />
     <MESSAGE value="Updated CV and fixed main.js error" />
     <MESSAGE value="Updated GitWatch description." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated GitWatch description." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605216908696">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605216908696" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606427822435">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606427822435" />
-    <state x="627" y="310" key="Github.ShareDialog" timestamp="1602629055843">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="627" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602629055843" />
-    <state x="549" y="117" key="Github.UntrackedFilesDialog" timestamp="1602629067687">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602629067687" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606303885585">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606303885585" />
+    <MESSAGE value="Updated CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated CV" />
   </component>
 </project>

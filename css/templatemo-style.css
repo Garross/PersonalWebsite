@@ -670,7 +670,11 @@ header {
   cursor: pointer;
   overflow: hidden;
 }
-
+.caption {
+  position: relative;
+  width: 80%;
+  text-align: center;
+}
 .box-video .bg-video{
   position: absolute;
   top: 0;
