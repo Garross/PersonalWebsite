@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Updated CV">
+    <list default="true" id="e7b9593a-bc60-4f98-830b-18ece8978126" name="Default Changelist" comment="Updated Blog and About Sections">
+      <change afterPath="$PROJECT_DIR$/js/components/starRating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/components/starRatingResults.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog_1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starRating.html" beforeDir="false" afterPath="$PROJECT_DIR$/starRating.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,11 +55,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\edti5\WebstormProjects\PersonalWebsite3\js\components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\edti5\WebstormProjects\PersonalWebsite3" />
       <recent name="C:\Users\edti5\WebstormProjects\PersonalWebsite3\img" />
@@ -84,7 +90,9 @@
       <workItem from="1606427792757" duration="33000" />
       <workItem from="1607988429950" duration="548000" />
       <workItem from="1607994978873" duration="112000" />
-      <workItem from="1639322313711" duration="13413000" />
+      <workItem from="1639322313711" duration="14573000" />
+      <workItem from="1640450333539" duration="2850000" />
+      <workItem from="1640543450659" duration="12977000" />
     </task>
     <task id="LOCAL-00001" summary="Creating Details Section">
       <created>1602630178737</created>
@@ -268,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607988562693</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updated Blog and About Sections">
+      <created>1639403687995</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1639403687995</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +326,7 @@
     <MESSAGE value="Updated CV and fixed main.js error" />
     <MESSAGE value="Updated GitWatch description." />
     <MESSAGE value="Updated CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated CV" />
+    <MESSAGE value="Updated Blog and About Sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Blog and About Sections" />
   </component>
 </project>
